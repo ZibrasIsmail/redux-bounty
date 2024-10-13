@@ -85,6 +85,12 @@ This is a full-stack e-commerce platform built with Next.js, Redux, and SQLite. 
 - `orders`: id, user_id, total_amount, status, created_at
 - `order_items`: id, order_id, product_id, quantity, price
 
+## App Demo Video
+
+https://github.com/user-attachments/assets/72fd7dd3-0bbd-4050-bf0b-60caf93af692
+
+
+
 ## License
 
 This project is licensed under the MIT License.

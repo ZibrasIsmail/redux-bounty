@@ -25,8 +25,8 @@ This is a full-stack e-commerce platform built with Next.js, Redux, and SQLite. 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/redux-ecom.git
-   cd redux-ecom
+   git clone https://github.com/zibiassha/redux-bounty.git
+   cd redux-bounty
    ```
 
 2. Install dependencies:
